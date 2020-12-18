@@ -1,0 +1,24 @@
+C:\Users\Abu Sayed\source\repos\flat restaurant app\bin\Debug\flat restaurant app.exe.config
+C:\Users\Abu Sayed\source\repos\flat restaurant app\bin\Debug\flat restaurant app.exe
+C:\Users\Abu Sayed\source\repos\flat restaurant app\bin\Debug\flat restaurant app.pdb
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.Form1.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.Properties.Resources.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.UserControl1.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat restaurant app.csproj.GenerateResource.cache
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat restaurant app.exe
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat restaurant app.pdb
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.eatin.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.Form2.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.Form3.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.Form4.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.delivery.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.delibery2.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.Form5.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\bin\Debug\MySql.Data.dll
+C:\Users\Abu Sayed\source\repos\flat restaurant app\bin\Debug\Google.Protobuf.dll
+C:\Users\Abu Sayed\source\repos\flat restaurant app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Abu Sayed\source\repos\flat restaurant app\bin\Debug\MySql.Data.xml
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat restaurant app.csprojAssemblyReference.cache
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat restaurant app.csproj.CopyComplete
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.Form6.resources
+C:\Users\Abu Sayed\source\repos\flat restaurant app\obj\Debug\flat_restaurant_app.bill.resources
